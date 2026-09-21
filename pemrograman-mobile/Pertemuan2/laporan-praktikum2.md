@@ -46,8 +46,7 @@ Mahasiswa mampu :
 - ctrl+c untuk menghetikan server
 - sebelumnya install (npx expo install react-dom react-native-web)
 - npx expo start --web 
-<br>
-<img src= "mobile-iPhone_17_Pro_Max.png" width="50%" >
+
 ![alt text](image.png)
 
 4. Tugas Praktikum Pemrograman Seluler (React Native)
